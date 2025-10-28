@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Reserva\\Pictures\\Desarrollo de Aplicaciones de Escritorio\\Sistema Estudiantes\\SistemaEstudiantes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9EA8AAC9-5DB5-4F07-9885-9DE06A3ACD39}|SistemaEstudiantes\\SistemaEstudiantes.csproj|c:\\users\\reserva\\pictures\\desarrollo de aplicaciones de escritorio\\sistema estudiantes\\sistemaestudiantes\\sistemaestudiantes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9EA8AAC9-5DB5-4F07-9885-9DE06A3ACD39}|SistemaEstudiantes\\SistemaEstudiantes.csproj|solutionrelative:sistemaestudiantes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Reserva\\Pictures\\Desarrollo de Aplicaciones de Escritorio\\Sistema Estudiantes\\SistemaEstudiantes\\SistemaEstudiantes\\Form1.cs",
+              "RelativeDocumentMoniker": "SistemaEstudiantes\\Form1.cs",
+              "ToolTip": "C:\\Users\\Reserva\\Pictures\\Desarrollo de Aplicaciones de Escritorio\\Sistema Estudiantes\\SistemaEstudiantes\\SistemaEstudiantes\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "SistemaEstudiantes\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T13:28:25.845Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -9,9 +9,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Core\Clases\" />
     <Folder Include="Core\Enums\" />
-    <Folder Include="Core\Dao\" />
+    <Folder Include="Formularios\" />
   </ItemGroup>
 
   <ItemGroup>

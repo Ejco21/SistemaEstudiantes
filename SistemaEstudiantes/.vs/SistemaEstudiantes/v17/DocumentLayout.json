@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Reserva\\Pictures\\Desarrollo de Aplicaciones de Escritorio\\Sistema Estudiantes\\SistemaEstudiantes\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9EA8AAC9-5DB5-4F07-9885-9DE06A3ACD39}|SistemaEstudiantes\\SistemaEstudiantes.csproj|c:\\users\\reserva\\pictures\\desarrollo de aplicaciones de escritorio\\sistema estudiantes\\sistemaestudiantes\\sistemaestudiantes\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{9EA8AAC9-5DB5-4F07-9885-9DE06A3ACD39}|SistemaEstudiantes\\SistemaEstudiantes.csproj|solutionrelative:sistemaestudiantes\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{9EA8AAC9-5DB5-4F07-9885-9DE06A3ACD39}|SistemaEstudiantes\\SistemaEstudiantes.csproj|c:\\users\\reserva\\pictures\\desarrollo de aplicaciones de escritorio\\sistema estudiantes\\sistemaestudiantes\\sistemaestudiantes\\core\\dao\\carreradao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EA8AAC9-5DB5-4F07-9885-9DE06A3ACD39}|SistemaEstudiantes\\SistemaEstudiantes.csproj|solutionrelative:sistemaestudiantes\\core\\dao\\carreradao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9EA8AAC9-5DB5-4F07-9885-9DE06A3ACD39}|SistemaEstudiantes\\SistemaEstudiantes.csproj|c:\\users\\reserva\\pictures\\desarrollo de aplicaciones de escritorio\\sistema estudiantes\\sistemaestudiantes\\sistemaestudiantes\\frminicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{9EA8AAC9-5DB5-4F07-9885-9DE06A3ACD39}|SistemaEstudiantes\\SistemaEstudiantes.csproj|solutionrelative:sistemaestudiantes\\frminicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{9EA8AAC9-5DB5-4F07-9885-9DE06A3ACD39}|SistemaEstudiantes\\SistemaEstudiantes.csproj|c:\\users\\reserva\\pictures\\desarrollo de aplicaciones de escritorio\\sistema estudiantes\\sistemaestudiantes\\sistemaestudiantes\\core\\dao\\icarreradao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EA8AAC9-5DB5-4F07-9885-9DE06A3ACD39}|SistemaEstudiantes\\SistemaEstudiantes.csproj|solutionrelative:sistemaestudiantes\\core\\dao\\icarreradao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EA8AAC9-5DB5-4F07-9885-9DE06A3ACD39}|SistemaEstudiantes\\SistemaEstudiantes.csproj|c:\\users\\reserva\\pictures\\desarrollo de aplicaciones de escritorio\\sistema estudiantes\\sistemaestudiantes\\sistemaestudiantes\\core\\clases\\carrera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EA8AAC9-5DB5-4F07-9885-9DE06A3ACD39}|SistemaEstudiantes\\SistemaEstudiantes.csproj|solutionrelative:sistemaestudiantes\\core\\clases\\carrera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,26 +27,41 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "frmLogin.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Reserva\\Pictures\\Desarrollo de Aplicaciones de Escritorio\\Sistema Estudiantes\\SistemaEstudiantes\\SistemaEstudiantes\\frmLogin.cs",
-              "RelativeDocumentMoniker": "SistemaEstudiantes\\frmLogin.cs",
-              "ToolTip": "C:\\Users\\Reserva\\Pictures\\Desarrollo de Aplicaciones de Escritorio\\Sistema Estudiantes\\SistemaEstudiantes\\SistemaEstudiantes\\frmLogin.cs [Dise\u00F1o]",
-              "RelativeToolTip": "SistemaEstudiantes\\frmLogin.cs [Dise\u00F1o]",
+              "Title": "CarreraDao.cs",
+              "DocumentMoniker": "C:\\Users\\Reserva\\Pictures\\Desarrollo de Aplicaciones de Escritorio\\Sistema Estudiantes\\SistemaEstudiantes\\SistemaEstudiantes\\Core\\Dao\\CarreraDao.cs",
+              "RelativeDocumentMoniker": "SistemaEstudiantes\\Core\\Dao\\CarreraDao.cs",
+              "ToolTip": "C:\\Users\\Reserva\\Pictures\\Desarrollo de Aplicaciones de Escritorio\\Sistema Estudiantes\\SistemaEstudiantes\\SistemaEstudiantes\\Core\\Dao\\CarreraDao.cs",
+              "RelativeToolTip": "SistemaEstudiantes\\Core\\Dao\\CarreraDao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-04T14:22:51.934Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-11-09T05:51:17.788Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "frmInicio.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Reserva\\Pictures\\Desarrollo de Aplicaciones de Escritorio\\Sistema Estudiantes\\SistemaEstudiantes\\SistemaEstudiantes\\frmInicio.cs",
-              "RelativeDocumentMoniker": "SistemaEstudiantes\\frmInicio.cs",
-              "ToolTip": "C:\\Users\\Reserva\\Pictures\\Desarrollo de Aplicaciones de Escritorio\\Sistema Estudiantes\\SistemaEstudiantes\\SistemaEstudiantes\\frmInicio.cs [Dise\u00F1o]",
-              "RelativeToolTip": "SistemaEstudiantes\\frmInicio.cs [Dise\u00F1o]",
+              "Title": "ICarreraDao.cs",
+              "DocumentMoniker": "C:\\Users\\Reserva\\Pictures\\Desarrollo de Aplicaciones de Escritorio\\Sistema Estudiantes\\SistemaEstudiantes\\SistemaEstudiantes\\Core\\Dao\\ICarreraDao.cs",
+              "RelativeDocumentMoniker": "SistemaEstudiantes\\Core\\Dao\\ICarreraDao.cs",
+              "ToolTip": "C:\\Users\\Reserva\\Pictures\\Desarrollo de Aplicaciones de Escritorio\\Sistema Estudiantes\\SistemaEstudiantes\\SistemaEstudiantes\\Core\\Dao\\ICarreraDao.cs",
+              "RelativeToolTip": "SistemaEstudiantes\\Core\\Dao\\ICarreraDao.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAQwBIAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-04T13:34:27.86Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-11-09T05:44:19.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Carrera.cs",
+              "DocumentMoniker": "C:\\Users\\Reserva\\Pictures\\Desarrollo de Aplicaciones de Escritorio\\Sistema Estudiantes\\SistemaEstudiantes\\SistemaEstudiantes\\Core\\Clases\\Carrera.cs",
+              "RelativeDocumentMoniker": "SistemaEstudiantes\\Core\\Clases\\Carrera.cs",
+              "ToolTip": "C:\\Users\\Reserva\\Pictures\\Desarrollo de Aplicaciones de Escritorio\\Sistema Estudiantes\\SistemaEstudiantes\\SistemaEstudiantes\\Core\\Clases\\Carrera.cs",
+              "RelativeToolTip": "SistemaEstudiantes\\Core\\Clases\\Carrera.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T01:46:19.603Z",
+              "EditorCaption": ""
             }
           ]
         }

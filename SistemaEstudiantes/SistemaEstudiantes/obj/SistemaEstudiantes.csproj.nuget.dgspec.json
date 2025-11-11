@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Reserva\\Pictures\\Desarrollo de Aplicaciones de Escritorio\\Sistema Estudiantes\\SistemaEstudiantes\\SistemaEstudiantes\\SistemaEstudiantes.csproj": {}
+    "C:\\Users\\aleja\\OneDrive\\Escritorio\\Proyecto DAE\\SistemaEstudiantes\\SistemaEstudiantes\\SistemaEstudiantes\\SistemaEstudiantes.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Reserva\\Pictures\\Desarrollo de Aplicaciones de Escritorio\\Sistema Estudiantes\\SistemaEstudiantes\\SistemaEstudiantes\\SistemaEstudiantes.csproj": {
+    "C:\\Users\\aleja\\OneDrive\\Escritorio\\Proyecto DAE\\SistemaEstudiantes\\SistemaEstudiantes\\SistemaEstudiantes\\SistemaEstudiantes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Reserva\\Pictures\\Desarrollo de Aplicaciones de Escritorio\\Sistema Estudiantes\\SistemaEstudiantes\\SistemaEstudiantes\\SistemaEstudiantes.csproj",
+        "projectUniqueName": "C:\\Users\\aleja\\OneDrive\\Escritorio\\Proyecto DAE\\SistemaEstudiantes\\SistemaEstudiantes\\SistemaEstudiantes\\SistemaEstudiantes.csproj",
         "projectName": "SistemaEstudiantes",
-        "projectPath": "C:\\Users\\Reserva\\Pictures\\Desarrollo de Aplicaciones de Escritorio\\Sistema Estudiantes\\SistemaEstudiantes\\SistemaEstudiantes\\SistemaEstudiantes.csproj",
-        "packagesPath": "C:\\Users\\Reserva\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Reserva\\Pictures\\Desarrollo de Aplicaciones de Escritorio\\Sistema Estudiantes\\SistemaEstudiantes\\SistemaEstudiantes\\obj\\",
+        "projectPath": "C:\\Users\\aleja\\OneDrive\\Escritorio\\Proyecto DAE\\SistemaEstudiantes\\SistemaEstudiantes\\SistemaEstudiantes\\SistemaEstudiantes.csproj",
+        "packagesPath": "C:\\Users\\aleja\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\aleja\\OneDrive\\Escritorio\\Proyecto DAE\\SistemaEstudiantes\\SistemaEstudiantes\\SistemaEstudiantes\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Reserva\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\aleja\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -78,7 +78,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

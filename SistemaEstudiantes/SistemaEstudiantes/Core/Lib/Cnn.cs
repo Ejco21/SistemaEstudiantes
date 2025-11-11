@@ -12,7 +12,7 @@ namespace SistemaEstudiantes.Core.Lib
     internal class Cnn
     {
         private readonly SqlConnection _conexion;
-
+             
         public Cnn()
         {
             string cadena = ConfigurationManager.ConnectionStrings["SqlConn"].ConnectionString;
@@ -23,7 +23,7 @@ namespace SistemaEstudiantes.Core.Lib
         {
             try
             {
-                if(_conexion.State == System.Data.ConnectionState.Closed)
+                if(_conexion.State == ConnectionState.Closed)
                 {
                     _conexion.Open();
 

@@ -9,7 +9,7 @@ namespace SistemaEstudiantes
 
         private void btnIngresar_Click(object sender, EventArgs e)
         {
-            if (txtUsuario.Text == "Usuario123" && txtPassword.Text == "Admin")
+            if (txtUsuario.Text == "" && txtPassword.Text == "")
             {
                 frmInicio FrmInicio = new frmInicio();
                 this.Hide();

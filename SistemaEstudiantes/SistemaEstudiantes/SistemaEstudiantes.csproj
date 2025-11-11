@@ -9,8 +9,18 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="Core\NewFolder\**" />
+    <EmbeddedResource Remove="Core\NewFolder\**" />
+    <None Remove="Core\NewFolder\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Remove="Core\Dao\IInscripcionDao.cs" />
+    <Compile Remove="Core\Dao\IInscripconView.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Folder Include="Core\Enums\" />
-    <Folder Include="Formularios\" />
   </ItemGroup>
 
   <ItemGroup>

@@ -1,18 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Reserva\\Pictures\\Desarrollo de Aplicaciones de Escritorio\\Sistema Estudiantes\\SistemaEstudiantes\\",
+  "WorkspaceRootPath": "C:\\Users\\aleja\\OneDrive\\Escritorio\\Proyecto DAE\\SistemaEstudiantes\\SistemaEstudiantes\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9EA8AAC9-5DB5-4F07-9885-9DE06A3ACD39}|SistemaEstudiantes\\SistemaEstudiantes.csproj|c:\\users\\reserva\\pictures\\desarrollo de aplicaciones de escritorio\\sistema estudiantes\\sistemaestudiantes\\sistemaestudiantes\\core\\dao\\carreradao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9EA8AAC9-5DB5-4F07-9885-9DE06A3ACD39}|SistemaEstudiantes\\SistemaEstudiantes.csproj|solutionrelative:sistemaestudiantes\\core\\dao\\carreradao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9EA8AAC9-5DB5-4F07-9885-9DE06A3ACD39}|SistemaEstudiantes\\SistemaEstudiantes.csproj|c:\\users\\aleja\\onedrive\\escritorio\\proyecto dae\\sistemaestudiantes\\sistemaestudiantes\\sistemaestudiantes\\formularios\\forms inscripcion\\frminscripcion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EA8AAC9-5DB5-4F07-9885-9DE06A3ACD39}|SistemaEstudiantes\\SistemaEstudiantes.csproj|solutionrelative:sistemaestudiantes\\formularios\\forms inscripcion\\frminscripcion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9EA8AAC9-5DB5-4F07-9885-9DE06A3ACD39}|SistemaEstudiantes\\SistemaEstudiantes.csproj|c:\\users\\reserva\\pictures\\desarrollo de aplicaciones de escritorio\\sistema estudiantes\\sistemaestudiantes\\sistemaestudiantes\\core\\dao\\icarreradao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9EA8AAC9-5DB5-4F07-9885-9DE06A3ACD39}|SistemaEstudiantes\\SistemaEstudiantes.csproj|solutionrelative:sistemaestudiantes\\core\\dao\\icarreradao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9EA8AAC9-5DB5-4F07-9885-9DE06A3ACD39}|SistemaEstudiantes\\SistemaEstudiantes.csproj|c:\\users\\aleja\\onedrive\\escritorio\\proyecto dae\\sistemaestudiantes\\sistemaestudiantes\\sistemaestudiantes\\core\\dao\\inscripciondao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EA8AAC9-5DB5-4F07-9885-9DE06A3ACD39}|SistemaEstudiantes\\SistemaEstudiantes.csproj|solutionrelative:sistemaestudiantes\\core\\dao\\inscripciondao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9EA8AAC9-5DB5-4F07-9885-9DE06A3ACD39}|SistemaEstudiantes\\SistemaEstudiantes.csproj|c:\\users\\reserva\\pictures\\desarrollo de aplicaciones de escritorio\\sistema estudiantes\\sistemaestudiantes\\sistemaestudiantes\\core\\clases\\carrera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9EA8AAC9-5DB5-4F07-9885-9DE06A3ACD39}|SistemaEstudiantes\\SistemaEstudiantes.csproj|solutionrelative:sistemaestudiantes\\core\\clases\\carrera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9EA8AAC9-5DB5-4F07-9885-9DE06A3ACD39}|SistemaEstudiantes\\SistemaEstudiantes.csproj|c:\\users\\aleja\\onedrive\\escritorio\\proyecto dae\\sistemaestudiantes\\sistemaestudiantes\\sistemaestudiantes\\core\\dao\\estudiantedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EA8AAC9-5DB5-4F07-9885-9DE06A3ACD39}|SistemaEstudiantes\\SistemaEstudiantes.csproj|solutionrelative:sistemaestudiantes\\core\\dao\\estudiantedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EA8AAC9-5DB5-4F07-9885-9DE06A3ACD39}|SistemaEstudiantes\\SistemaEstudiantes.csproj|c:\\users\\aleja\\onedrive\\escritorio\\proyecto dae\\sistemaestudiantes\\sistemaestudiantes\\sistemaestudiantes\\formularios\\forms inscripcion\\frminscripcion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9EA8AAC9-5DB5-4F07-9885-9DE06A3ACD39}|SistemaEstudiantes\\SistemaEstudiantes.csproj|solutionrelative:sistemaestudiantes\\formularios\\forms inscripcion\\frminscripcion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EA8AAC9-5DB5-4F07-9885-9DE06A3ACD39}|SistemaEstudiantes\\SistemaEstudiantes.csproj|c:\\users\\aleja\\onedrive\\escritorio\\proyecto dae\\sistemaestudiantes\\sistemaestudiantes\\sistemaestudiantes\\formularios\\forms inscripcion\\frminscribirest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EA8AAC9-5DB5-4F07-9885-9DE06A3ACD39}|SistemaEstudiantes\\SistemaEstudiantes.csproj|solutionrelative:sistemaestudiantes\\formularios\\forms inscripcion\\frminscribirest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EA8AAC9-5DB5-4F07-9885-9DE06A3ACD39}|SistemaEstudiantes\\SistemaEstudiantes.csproj|c:\\users\\aleja\\onedrive\\escritorio\\proyecto dae\\sistemaestudiantes\\sistemaestudiantes\\sistemaestudiantes\\core\\clases\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EA8AAC9-5DB5-4F07-9885-9DE06A3ACD39}|SistemaEstudiantes\\SistemaEstudiantes.csproj|solutionrelative:sistemaestudiantes\\core\\clases\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EA8AAC9-5DB5-4F07-9885-9DE06A3ACD39}|SistemaEstudiantes\\SistemaEstudiantes.csproj|c:\\users\\aleja\\onedrive\\escritorio\\proyecto dae\\sistemaestudiantes\\sistemaestudiantes\\sistemaestudiantes\\core\\clases\\inscripcion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EA8AAC9-5DB5-4F07-9885-9DE06A3ACD39}|SistemaEstudiantes\\SistemaEstudiantes.csproj|solutionrelative:sistemaestudiantes\\core\\clases\\inscripcion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -21,47 +37,101 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "DockedWidth": 272,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CarreraDao.cs",
-              "DocumentMoniker": "C:\\Users\\Reserva\\Pictures\\Desarrollo de Aplicaciones de Escritorio\\Sistema Estudiantes\\SistemaEstudiantes\\SistemaEstudiantes\\Core\\Dao\\CarreraDao.cs",
-              "RelativeDocumentMoniker": "SistemaEstudiantes\\Core\\Dao\\CarreraDao.cs",
-              "ToolTip": "C:\\Users\\Reserva\\Pictures\\Desarrollo de Aplicaciones de Escritorio\\Sistema Estudiantes\\SistemaEstudiantes\\SistemaEstudiantes\\Core\\Dao\\CarreraDao.cs",
-              "RelativeToolTip": "SistemaEstudiantes\\Core\\Dao\\CarreraDao.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAA==",
+              "Title": "frmInscripcion.cs",
+              "DocumentMoniker": "C:\\Users\\aleja\\OneDrive\\Escritorio\\Proyecto DAE\\SistemaEstudiantes\\SistemaEstudiantes\\SistemaEstudiantes\\Formularios\\Forms Inscripcion\\frmInscripcion.cs",
+              "RelativeDocumentMoniker": "SistemaEstudiantes\\Formularios\\Forms Inscripcion\\frmInscripcion.cs",
+              "ToolTip": "C:\\Users\\aleja\\OneDrive\\Escritorio\\Proyecto DAE\\SistemaEstudiantes\\SistemaEstudiantes\\SistemaEstudiantes\\Formularios\\Forms Inscripcion\\frmInscripcion.cs",
+              "RelativeToolTip": "SistemaEstudiantes\\Formularios\\Forms Inscripcion\\frmInscripcion.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAAwG4AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-09T05:51:17.788Z",
+              "WhenOpened": "2025-11-11T21:30:39.599Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ICarreraDao.cs",
-              "DocumentMoniker": "C:\\Users\\Reserva\\Pictures\\Desarrollo de Aplicaciones de Escritorio\\Sistema Estudiantes\\SistemaEstudiantes\\SistemaEstudiantes\\Core\\Dao\\ICarreraDao.cs",
-              "RelativeDocumentMoniker": "SistemaEstudiantes\\Core\\Dao\\ICarreraDao.cs",
-              "ToolTip": "C:\\Users\\Reserva\\Pictures\\Desarrollo de Aplicaciones de Escritorio\\Sistema Estudiantes\\SistemaEstudiantes\\SistemaEstudiantes\\Core\\Dao\\ICarreraDao.cs",
-              "RelativeToolTip": "SistemaEstudiantes\\Core\\Dao\\ICarreraDao.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAQwBIAAAAIAAAAAAAAAA==",
+              "Title": "InscripcionDao.cs",
+              "DocumentMoniker": "C:\\Users\\aleja\\OneDrive\\Escritorio\\Proyecto DAE\\SistemaEstudiantes\\SistemaEstudiantes\\SistemaEstudiantes\\Core\\Dao\\InscripcionDao.cs",
+              "RelativeDocumentMoniker": "SistemaEstudiantes\\Core\\Dao\\InscripcionDao.cs",
+              "ToolTip": "C:\\Users\\aleja\\OneDrive\\Escritorio\\Proyecto DAE\\SistemaEstudiantes\\SistemaEstudiantes\\SistemaEstudiantes\\Core\\Dao\\InscripcionDao.cs",
+              "RelativeToolTip": "SistemaEstudiantes\\Core\\Dao\\InscripcionDao.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwA8AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-09T05:44:19.974Z",
+              "WhenOpened": "2025-11-10T23:00:51.709Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Carrera.cs",
-              "DocumentMoniker": "C:\\Users\\Reserva\\Pictures\\Desarrollo de Aplicaciones de Escritorio\\Sistema Estudiantes\\SistemaEstudiantes\\SistemaEstudiantes\\Core\\Clases\\Carrera.cs",
-              "RelativeDocumentMoniker": "SistemaEstudiantes\\Core\\Clases\\Carrera.cs",
-              "ToolTip": "C:\\Users\\Reserva\\Pictures\\Desarrollo de Aplicaciones de Escritorio\\Sistema Estudiantes\\SistemaEstudiantes\\SistemaEstudiantes\\Core\\Clases\\Carrera.cs",
-              "RelativeToolTip": "SistemaEstudiantes\\Core\\Clases\\Carrera.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
+              "Title": "EstudianteDao.cs",
+              "DocumentMoniker": "C:\\Users\\aleja\\OneDrive\\Escritorio\\Proyecto DAE\\SistemaEstudiantes\\SistemaEstudiantes\\SistemaEstudiantes\\Core\\Dao\\EstudianteDao.cs",
+              "RelativeDocumentMoniker": "SistemaEstudiantes\\Core\\Dao\\EstudianteDao.cs",
+              "ToolTip": "C:\\Users\\aleja\\OneDrive\\Escritorio\\Proyecto DAE\\SistemaEstudiantes\\SistemaEstudiantes\\SistemaEstudiantes\\Core\\Dao\\EstudianteDao.cs",
+              "RelativeToolTip": "SistemaEstudiantes\\Core\\Dao\\EstudianteDao.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAIwBAAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-09T01:46:19.603Z",
+              "WhenOpened": "2025-11-10T23:16:11.451Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Estudiante.cs",
+              "DocumentMoniker": "C:\\Users\\aleja\\OneDrive\\Escritorio\\Proyecto DAE\\SistemaEstudiantes\\SistemaEstudiantes\\SistemaEstudiantes\\Core\\Clases\\Estudiante.cs",
+              "RelativeDocumentMoniker": "SistemaEstudiantes\\Core\\Clases\\Estudiante.cs",
+              "ToolTip": "C:\\Users\\aleja\\OneDrive\\Escritorio\\Proyecto DAE\\SistemaEstudiantes\\SistemaEstudiantes\\SistemaEstudiantes\\Core\\Clases\\Estudiante.cs",
+              "RelativeToolTip": "SistemaEstudiantes\\Core\\Clases\\Estudiante.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T00:16:42.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmInscribirEst.cs",
+              "DocumentMoniker": "C:\\Users\\aleja\\OneDrive\\Escritorio\\Proyecto DAE\\SistemaEstudiantes\\SistemaEstudiantes\\SistemaEstudiantes\\Formularios\\Forms Inscripcion\\frmInscribirEst.cs",
+              "RelativeDocumentMoniker": "SistemaEstudiantes\\Formularios\\Forms Inscripcion\\frmInscribirEst.cs",
+              "ToolTip": "C:\\Users\\aleja\\OneDrive\\Escritorio\\Proyecto DAE\\SistemaEstudiantes\\SistemaEstudiantes\\SistemaEstudiantes\\Formularios\\Forms Inscripcion\\frmInscribirEst.cs",
+              "RelativeToolTip": "SistemaEstudiantes\\Formularios\\Forms Inscripcion\\frmInscribirEst.cs",
+              "ViewState": "AgIAAIcAAAAAAAAAAIAwwI4AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T22:03:31.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmInscripcion.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\aleja\\OneDrive\\Escritorio\\Proyecto DAE\\SistemaEstudiantes\\SistemaEstudiantes\\SistemaEstudiantes\\Formularios\\Forms Inscripcion\\frmInscripcion.cs",
+              "RelativeDocumentMoniker": "SistemaEstudiantes\\Formularios\\Forms Inscripcion\\frmInscripcion.cs",
+              "ToolTip": "C:\\Users\\aleja\\OneDrive\\Escritorio\\Proyecto DAE\\SistemaEstudiantes\\SistemaEstudiantes\\SistemaEstudiantes\\Formularios\\Forms Inscripcion\\frmInscripcion.cs [Dise\u00F1o]",
+              "RelativeToolTip": "SistemaEstudiantes\\Formularios\\Forms Inscripcion\\frmInscripcion.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T21:04:46.498Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Inscripcion.cs",
+              "DocumentMoniker": "C:\\Users\\aleja\\OneDrive\\Escritorio\\Proyecto DAE\\SistemaEstudiantes\\SistemaEstudiantes\\SistemaEstudiantes\\Core\\Clases\\Inscripcion.cs",
+              "RelativeDocumentMoniker": "SistemaEstudiantes\\Core\\Clases\\Inscripcion.cs",
+              "ToolTip": "C:\\Users\\aleja\\OneDrive\\Escritorio\\Proyecto DAE\\SistemaEstudiantes\\SistemaEstudiantes\\SistemaEstudiantes\\Core\\Clases\\Inscripcion.cs",
+              "RelativeToolTip": "SistemaEstudiantes\\Core\\Clases\\Inscripcion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T23:14:29.107Z"
             }
           ]
         }
